@@ -2,7 +2,7 @@
 
 *Este proyecto es sobre un CRUD de pedidos, en la cual los datos se manejan en offline y online dependiendo del acceso a internet, los pedidos que estan pendientes de envio se muestran con un fondo plomo, los que se consumen del api tiene fondo blanco,
 
-en la pantalla de registro como de editar, se cuenta con el campo fecha el cual tiene un icono, el cual al dar click se muestra un calendario.
+en la pantalla de registro como de editar, se cuenta con el campo fecha el cual tiene un icono, el cual al dar click se muestra un calendario.Para entrar a la pantalla de edicion, hay que hacer click en el pedido.
 
 *Se adjunta link del apk  https://drive.google.com/file/d/1UjANPDYKDS01pHeq4N8IenezyGTvGxW4/view?usp=sharing
 
