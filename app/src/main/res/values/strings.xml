@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Gestion pedidos</string>
+    <string name="title_activity_main">Gestion pedidos</string>
+
+    <string name="orders">Pedidos</string>
+    <string name="client">Cliente</string>
+    <string name="product">Producto</string>
+    <string name="amount">Cantidad</string>
+    <string name="date">Fecha</string>
+    <string name="delete">Eliminar</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="question_delete">¿Esta seguro de eliminar este registro?</string>
+
+    <string name="new_order">Nuevo pedido</string>
+    <string name="add">Registrar</string>
+
+    <string name="edit_order">Editar pedido</string>
+    <string name="edit">Editar</string>
+
+    <string name="message_success_edit">"Se edito correctamente"</string>
+    <string name="message_success_register">"Se registro correctamente"</string>
+</resources>

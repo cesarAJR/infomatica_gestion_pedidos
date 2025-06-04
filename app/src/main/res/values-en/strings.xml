@@ -1,0 +1,19 @@
+<resources>
+    <string name="orders">Orders</string>
+    <string name="client">Client</string>
+    <string name="product">Product</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="delete">Delete</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="question_delete">Are you sure you want to delete this record?</string>
+    <string name="new_order">New Order</string>
+    <string name="add">Register</string>
+
+    <string name="edit_order">Edit Order</string>
+    <string name="edit">Edit</string>
+
+    <string name="message_success_edit">Edited successfully</string>
+    <string name="message_success_register">Registered successfully</string>
+</resources>
